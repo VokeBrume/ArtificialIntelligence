@@ -1,2 +1,2 @@
-# ArtificialIntelligence
-All code in AI and ML
+# Artificial Intelligence/Machine Learning
+All code for AI and ML
